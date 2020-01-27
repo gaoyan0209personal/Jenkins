@@ -1,4 +1,3 @@
 
-
-.\env\Scripts\activate
+./env/Scripts/activate
 python test_simple.py
